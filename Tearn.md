@@ -14,6 +14,8 @@
 - Refresh token time is high ()
 - multer use from file sharing
 
+`git commit -m "first commit"`
+
 ---
 
 ### CRUD
@@ -26,5 +28,3 @@ PUT :- compit change
 PATCH :- specific path cahnge
 
 ---
-
-# 2:34

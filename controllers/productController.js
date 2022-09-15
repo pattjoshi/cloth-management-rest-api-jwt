@@ -45,13 +45,15 @@ const productController = {
           });
           return next(error);
         }
-        const { name, price, size } = req.body;
+        const { name, price, size, color, type } = req.body;
         let document;
         try {
           document = await Product.create({
             name,
             price,
             size,
+            color,
+            type,
             image: filePath,
           });
         } catch (error) {
@@ -88,7 +90,7 @@ const productController = {
         }
         return next(error);
       }
-      const { name, price, size } = req.body;
+      const { name, price, size, color, type } = req.body;
       let document;
       try {
         document = await Product.findOneAndUpdate(
@@ -97,6 +99,8 @@ const productController = {
             name,
             price,
             size,
+            color,
+            type,
             ...(req.file && { image: filePath }),
           },
           { new: true }
