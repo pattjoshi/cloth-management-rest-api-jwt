@@ -47,8 +47,8 @@ Change DB_URL to yours db url.
         - Get single product
         - Delete a product
 
-
-
+--- 
+# [POSTMAN-LINK REST-API 🟢](https://www.getpostman.com/collections/801da7f706c06d694ef0)
 
 
 
