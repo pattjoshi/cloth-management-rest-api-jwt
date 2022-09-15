@@ -23,4 +23,49 @@ Change DB_URL to yours db url.
 `npm run dev`
 
 
+---
+
+### Feacher 
+- Login and Registration from API with roles and permission
+- Logout
+-  OAuth Token generation
+- CRUD on clothes (data model can be decided by you) with image upload) (only admin)
+- maintaining good quality folder structure
+- Error heandeling
+- Joi schema validation
+- Show all product
+- Advance functionality like analytics endpoints :-
+
+         - Register a user
+        -  Login a user
+        - Who am I (GET current user data)
+        - Refresh the token
+        - Logout the user
+        -  Add new product
+        - Update a product
+        - Get all products
+        - Get single product
+        - Delete a product
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Congratulations 🎊🎉
