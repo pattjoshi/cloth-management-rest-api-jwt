@@ -51,9 +51,9 @@ Change DB_URL to yours db url.
 # [POSTMAN-LINK REST-API 🟢](https://www.getpostman.com/collections/801da7f706c06d694ef0)
 
 
+## Vedio
 
-
-- [https://clideo.com/compress-video](vid-compress)
+https://user-images.githubusercontent.com/78966839/190371443-02e712b5-d771-4414-a2b3-0a1d1ca3871a.mp4
 
 
 
