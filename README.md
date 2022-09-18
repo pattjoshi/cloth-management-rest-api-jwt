@@ -80,6 +80,8 @@ https://user-images.githubusercontent.com/78966839/190371443-02e712b5-d771-4414-
 
 * [dotenv](https://www.npmjs.com/package/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
 
+* [ Test APIs using Postman]
+
 ---
 
 ### Congratulations 🎊🎉
